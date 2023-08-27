@@ -1,0 +1,22 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºØÖê8Ù¦ÚÔ™1
+‚
+java:S4165"`Remove this useless assignment; "id" already holds the assigned value along all execution paths.(£©èÚşÿÿÿÿ8â¦ÚÔ™1
+„
+java:S4165"bRemove this useless assignment; "name" already holds the assigned value along all execution paths.(É´“ıÿÿÿÿ8â¦ÚÔ™1
+Q
+java:S1656"/Remove or correct this useless self-assignment.(£©èÚşÿÿÿÿ8ä¦ÚÔ™1
+Q
+java:S1656"/Remove or correct this useless self-assignment.(É´“ıÿÿÿÿ8å¦ÚÔ™1
+P
+java:S1068".Remove this unused "department" private field.(š…¡êûÿÿÿÿ8å¦ÚÔ™1
+L
+java:S1068	"*Remove this unused "salary" private field.(ÙîìÅıÿÿÿÿ8æ¦ÚÔ™1
+O
+java:S1144"2Remove this unused private "Employee" constructor.(½“Ê¼8æ¦ÚÔ™1
+T
+java:S1144"2Remove this unused private "Employee" constructor.(ƒ³Šıÿÿÿÿ8æ¦ÚÔ™1
+O
+java:S1144"2Remove this unused private "Employee" constructor.(†®ƒë8æ¦ÚÔ™1
+T
+java:S1144"2Remove this unused private "Employee" constructor.(ëé¥Şşÿÿÿÿ8æ¦ÚÔ™1

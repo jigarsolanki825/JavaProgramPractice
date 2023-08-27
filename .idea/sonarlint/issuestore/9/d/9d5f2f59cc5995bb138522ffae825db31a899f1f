@@ -1,0 +1,44 @@
+
+E
+java:S37408"/Provide the parametrized type for this generic.(ïÑ¿ú
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ş®î·üÿÿÿÿ
+f
+java:S36558"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ïÑ¿ú
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(³ê³ºøÿÿÿÿ
+@
+java:S3457"%String contains no format specifiers.(³ê³ºøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³ê³ºøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­ù°î
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÖšÈé
+;
+java:S3457"%String contains no format specifiers.(ÖšÈé
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÖšÈé
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ºëƒ¸
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ş”‚Ùÿÿÿÿÿ
+@
+java:S3457"%String contains no format specifiers.(ş”‚Ùÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ş”‚Ùÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹¿ñ˜øÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(êùÕ‰
+;
+java:S3457"%String contains no format specifiers.(êùÕ‰
+N	java:S106"9Replace this use of System.out or System.err by a logger.(êùÕ‰
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢ı“àûÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ç†õ®
+;
+java:S3457"%String contains no format specifiers.(ç†õ®
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ç†õ®
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(¾ÌğÓ
+g
+java:S3457""Q%n should be used in place of \n to produce the platform-specific line separator.(„¢ÅÊ
+;
+java:S3457""%String contains no format specifiers.(„¢ÅÊ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(„¢ÅÊ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(çèÿàÿÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(¹ÌÌüÿÿÿÿ
+V	java:S125A"<This block of commented-out lines of code should be removed.( ïßøÿÿÿÿ

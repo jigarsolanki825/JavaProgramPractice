@@ -1,0 +1,15 @@
+
+>
+java:S1643"Use a StringBuilder instead.(²îíÕÿÿÿÿÿ8ÅµûÓ™1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÛÃòş8ÈµûÓ™1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºØÖê8ÉµûÓ™1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ©³‚8÷µûÓ™1
+]	java:S125
+"<This block of commented-out lines of code should be removed.(·†ß’şÿÿÿÿ8÷µûÓ™1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ç¿Ãùÿÿÿÿ8¶ûÓ™1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8‚¶ûÓ™1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8‚¶ûÓ™1
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8‚¶ûÓ™1

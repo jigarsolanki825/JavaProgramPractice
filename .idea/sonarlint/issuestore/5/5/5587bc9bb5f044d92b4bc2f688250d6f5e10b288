@@ -1,0 +1,13 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬ÒšÖûÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "s1".(¢½Ïí
+Q	java:S125	"<This block of commented-out lines of code should be removed.(àæÜ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(—¬Êûÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(œ™À
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÅËİûÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
+^
+java:S1128"CRemove this unused import 'java.util.concurrent.ConcurrentHashMap'.(ÓŠÓøúÿÿÿÿ

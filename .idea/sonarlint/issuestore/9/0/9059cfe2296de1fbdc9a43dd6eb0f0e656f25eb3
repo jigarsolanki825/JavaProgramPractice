@@ -1,0 +1,50 @@
+
+z
+java:S11923"dDefine a constant instead of duplicating this literal "=============+++++++===============" 8 times.(Ğ·Áí
+
+java:S1192"fDefine a constant instead of duplicating this literal "
+ =============+++++++===============" 7 times.(Ÿõˆ‚ùÿÿÿÿ
+k	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÃêœûÿÿÿÿ
+k	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÃêœûÿÿÿÿ
+k	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è×Ú®ûÿÿÿÿ
+k	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è×Ú®ûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ—Ä
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¦Âµ‰üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿõˆ‚ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ı‰Ìşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿõˆ‚ùÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.( ±°Áùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(½Ï‰
+S	java:S106""9Replace this use of System.out or System.err by a logger.(Ÿõˆ‚ùÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ÿ¶Éİ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Ÿõˆ‚ùÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(–¥Ä¨
+S	java:S106("9Replace this use of System.out or System.err by a logger.(Ÿõˆ‚ùÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(ò’²
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(Ÿõˆ‚ùÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(¥İ§”
+S	java:S106."9Replace this use of System.out or System.err by a logger.(Ÿõˆ‚ùÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ãÃêœûÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(Èßòµ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(Ğ·Áí
+R
+java:S16125"<Replace this lambda with method reference 'Entry::getValue'.(ÜÑ„
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(®­Ë˜
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(Ğ·Áí
+U
+java:S16129":Replace this lambda with method reference 'Entry::getKey'.(—ßî«şÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(—ßî«şÿÿÿÿ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(Ğ·Áí
+S	java:S106="9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(Ğ·Áí
+W
+java:S1612@"<Replace this lambda with method reference 'Entry::getValue'.(¯Ô—øÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(¯Ô—øÿÿÿÿ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(Ğ·Áí
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(è×Ú®ûÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(Ğ·Áí
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(šôÈû
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(Ğ·Áí
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(Ğ·Áí
+G
+java:S1128",Remove this unused import 'Product.Product'.(Ííæµıÿÿÿÿ

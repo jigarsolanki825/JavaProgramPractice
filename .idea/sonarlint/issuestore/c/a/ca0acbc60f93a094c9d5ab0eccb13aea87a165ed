@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³×Ùşÿÿÿÿ8€Ï’é1
+]	java:S125"<This block of commented-out lines of code should be removed.(ù¹Åşüÿÿÿÿ8‡Ï’é1
+Z
+java:S1854"=Remove this useless assignment to local variable "predicate".(È¶±ö8• é1
+X	java:S125"<This block of commented-out lines of code should be removed.(Àï³8ˆÏ’é1
+o
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(È¶±ö8• é1
+K
+java:S1481".Remove this unused "predicate" local variable.(È¶±ö8‚• é1
+]	java:S125"<This block of commented-out lines of code should be removed.(†—œ…ûÿÿÿÿ8¢ïé1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(íÈ«êùÿÿÿÿ8Ç©é1

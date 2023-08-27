@@ -1,0 +1,19 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(š†Ç8Ş¼¹Ì›1
+U
+java:S1874
+"3Remove this use of "newInstance"; it is deprecated.(¿ñ½‰ûÿÿÿÿ8ê½¹Ì›1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(êğ»ıÿÿÿÿ8ÿ½¹Ì›1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İ˜½…ùÿÿÿÿ8ƒ¾¹Ì›1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­²ÿ¿úÿÿÿÿ8…¾¹Ì›1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ì¥¹Òûÿÿÿÿ8‰¾¹Ì›1
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(±áô8Œ¾¹Ì›1
+T	java:S106!"9Replace this use of System.out or System.err by a logger.(¬¯å(8¾¹Ì›1
+U	java:S106""9Replace this use of System.out or System.err by a logger.(¾ùäò8¾¹Ì›1
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8—¾¹Ì›1
+X	java:S125#"<This block of commented-out lines of code should be removed.(â”’¸8—¾¹Ì›1
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8™¾¹Ì›1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8¾¹Ì›1
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8¬¾¹Ì›1
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8­¾¹Ì›1
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(±áô8¯¾¹Ì›1

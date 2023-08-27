@@ -1,0 +1,8 @@
+
+c
+java:S1192"FDefine a constant instead of duplicating this literal "jigar" 3 times.(ËÀ‚˜8„×÷Ÿ1
+`
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(»¢üÿÿÿÿ8‘×÷Ÿ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(œ÷Àº8”×÷Ÿ1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8İœ…‘Ÿ1

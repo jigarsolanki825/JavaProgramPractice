@@ -1,0 +1,18 @@
+
+K
+java:S3740"/Provide the parametrized type for this generic.(‚8àèÔ™1
+L
+java:S3740"/Provide the parametrized type for this generic.(ÈûÖË8áèÔ™1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í°í€ÿÿÿÿÿ8âèÔ™1
+R
+java:S1854"5Remove this useless assignment to local variable "f".(Ô±Ê“8óèÔ™1
+X	java:S125"<This block of commented-out lines of code should be removed.(›®×ü8óèÔ™1
+C
+java:S1481"&Remove this unused "f" local variable.(Ô±Ê“8õèÔ™1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÿÎİ8õèÔ™1
+N
+java:S3011",This accessibility update should be removed.(”ÿ•·şÿÿÿÿ8öèÔ™1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨ô¢¨ıÿÿÿÿ8øèÔ™1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£ø¸¶üÿÿÿÿ8ÿèÔ™1
+W
+java:S1128"5Remove this unused import 'GeneralExamples.Employee'.(ø´ãÎùÿÿÿÿ8€‘èÔ™1

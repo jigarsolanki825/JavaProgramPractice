@@ -1,0 +1,25 @@
+
+c
+java:S1192"FDefine a constant instead of duplicating this literal "Jigar" 3 times.(¤öä¥8ººˆÀž1
+r	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü‚³œýÿÿÿÿ8»ºˆÀž1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( è»Â8¾ºˆÀž1
+j
+java:S1854H"MRemove this useless assignment to local variable "sortByNameWithComparator2".(ÃŠ¤§8òºˆÀž1
+o
+java:S1854G"MRemove this useless assignment to local variable "sortByNameWithComparator1".(ž°Ô§ýÿÿÿÿ8òºˆÀž1
+t
+java:S1854F"RRemove this useless assignment to local variable "sortByNameWithCustomComparator".(ŸÇþœùÿÿÿÿ8òºˆÀž1
+T	java:S106#"9Replace this use of System.out or System.err by a logger.(†½ù18þºˆÀž1
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(Ÿ»—ƒ8Œ»ˆÀž1
+e
+java:S1481F"CRemove this unused "sortByNameWithCustomComparator" local variable.(ŸÇþœùÿÿÿÿ8„»ˆÀž1
+`
+java:S1481G">Remove this unused "sortByNameWithComparator1" local variable.(ž°Ô§ýÿÿÿÿ8‡»ˆÀž1
+[
+java:S1481H">Remove this unused "sortByNameWithComparator2" local variable.(ÃŠ¤§8‰»ˆÀž1
+X	java:S125L"<This block of commented-out lines of code should be removed.(¾¦‘ž8‹»ˆÀž1
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(ã˜ãÇ8È€‰Àž1
+]	java:S125Q"<This block of commented-out lines of code should be removed.(ŠÁ¾Äýÿÿÿÿ8Œ»ˆÀž1
+X	java:S125["<This block of commented-out lines of code should be removed.(È·Àý8»ˆÀž1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8Æ§Àž1
